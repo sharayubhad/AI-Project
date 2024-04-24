@@ -1,2 +1,3 @@
 # AI-Project
-Artificial Intelligence project at YHills
+Artificial Intelligence project using python
+
